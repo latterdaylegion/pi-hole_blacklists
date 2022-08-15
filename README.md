@@ -12,5 +12,3 @@ There may be a better way so I am open to suggestions.
 
 # Planned:
 - working to automate the download and splitting of the domains to smaller files. 
-- create a script to check if a domaim/subdmain is accessible to reduce the size of files.
-- add date/time of domain added to list.
