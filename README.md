@@ -8,6 +8,8 @@ Extracted domains list (120Mb+ at time of writing)
 
 Had to split up to upload to github for use in Pi-hole as I could not get other methods to work at this time.
 
+THe adult_blacklist_custom is based on the urls list provided from UT1. I found a lot of the domains in the links were not in the main adult block list so I decided to create this custom list. There have been some false positives like google.com and github.com so just whitlist in Pi-Hole as needed. 
+
 There may be a better way so I am open to suggestions.
 
 # Planned:
